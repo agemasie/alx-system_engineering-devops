@@ -1,1 +1,1 @@
-We are symbols, and inhabit symbols
+We are symbols and inhabit symbols

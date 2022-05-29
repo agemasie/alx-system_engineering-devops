@@ -2,3 +2,4 @@
 chmod ug-rwx hello
 chmod o+rwx hello
 chmod ug=rwx hello
+chmod 007 hello

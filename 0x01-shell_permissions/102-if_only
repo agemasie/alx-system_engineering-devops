@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello | find /home/vagrant/alx-system_engineering-devops/0x01-shell_permissions/ -user guillaume
+chown --from=guillaume betty hello
